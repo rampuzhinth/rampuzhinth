@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @rampuzhinth
+- 👋 Hi, I’m Ram 
 - 👀 I’m interested in Web Dev and ML
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning MERN and Java
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ramgokulpugaz@gmail.com
+- 📫 How to reach me rampuzhinth@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 🤪
 
 <!---
 rampuzhinth/rampuzhinth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
